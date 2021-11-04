@@ -1,4 +1,5 @@
 #!/bin/bash
+#hi
 
 echo hoge
 echo hoge
